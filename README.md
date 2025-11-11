@@ -151,7 +151,6 @@ Feel free to modify, distribute, and use for personal or commercial projects.
 - [ ] XERR monitoring for open/short detection  
 - [ ] Multi-chip daisy-chain examples  
 - [ ] Pattern and animation utilities  
+- [ ] RGB LED driver support — extend the library to group three channels per LED and control multiple RGB outputs.
+This will allow using the TLC5940 as a flexible constant-current RGB LED controller for lighting or matrix projects.
 
----
-
-### ⭐ If this project helped you, consider starring it on GitHub!
