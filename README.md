@@ -139,7 +139,7 @@ GND ───► common ground
 ## 📄 License
 
 MIT License  
-© 2025 Tyroonis / Patrick Guß  
+© 2025 Tyroonis
 
 Feel free to modify, distribute, and use for personal or commercial projects.
 
